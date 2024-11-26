@@ -62,5 +62,6 @@
 ## Database
 |  |
 | ------- |
+| [0584-find-customer-referee](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0584-find-customer-referee) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
