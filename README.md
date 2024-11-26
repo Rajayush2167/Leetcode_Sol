@@ -59,4 +59,8 @@
 | ------- |
 | [0058-length-of-last-word](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0058-length-of-last-word) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/1302-delete-characters-to-make-fancy-string) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
