@@ -12,6 +12,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0189-rotate-array) |
+| [0238-product-of-array-except-self](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0238-product-of-array-except-self) |
 | [0643-maximum-average-subarray-i](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0643-maximum-average-subarray-i) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1972-rotating-the-box](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/1972-rotating-the-box) |
@@ -75,4 +76,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0169-majority-element) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
