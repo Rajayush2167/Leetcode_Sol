@@ -1,5 +1,5 @@
 👨🏽‍💻# LeetCode Solutions
-<p><img align="center" src="https://images.app.goo.gl/Wteb4u1vMw1kpsm16" width="200" alt="rajayush2167" /></p>
+<p><img align="center" src="https://media0.giphy.com/media/dZX3AduGrY3uJ7qCsx/giphy.gif?cid=6c09b952k3o2sqnytvs813mrma3bk8tpmo12nsncpof6m2qn&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" width="300" alt="rajayush2167" /></p>
 
 
 Welcome to my LeetCode solutions repository! 🚀 Here, you'll find my solutions to various LeetCode problems categorized by topic. These solutions are written in multiple programming languages, and the explanations (if applicable) are provided for better understanding. 
