@@ -22,8 +22,7 @@ Welcome to my LeetCode solutions repository! 🚀 Here, you'll find my solutions
 ---
 
 <!---LeetCode Topics Start-->
-![LeetCode Stats](https://leetcard.jacoblin.cool/rajayush2167?theme=dark&ext=heatmap)
-<p align="center">
+
 
 
 
