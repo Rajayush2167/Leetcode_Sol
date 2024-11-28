@@ -1,6 +1,7 @@
 # Leetcode_Sol
 <!---LeetCode Topics Start-->
-[![LeetCode Stats](https://leetcard.jacoblin.cool/rajayush2167?theme=light&font=source_code_pro)](https://leetcode.com/your-username/)
+![LeetCode Stats](https://leetcard.jacoblin.cool/rajayush2167?theme=dark&ext=heatmap)
+<p align="center">
 
 
 
