@@ -1,4 +1,26 @@
-# Leetcode_Sol
+# LeetCode Solutions
+<p><img align="center" src="https://images.app.goo.gl/Wteb4u1vMw1kpsm16" width="200" alt="rajayush2167" /></p>
+
+
+Welcome to my LeetCode solutions repository! 🚀 Here, you'll find my solutions to various LeetCode problems categorized by topic. These solutions are written in multiple programming languages, and the explanations (if applicable) are provided for better understanding. 
+
+---
+
+## 📝 Table of Contents
+
+- [Array](#array)
+- [String](#string)
+- [Linked List](#linked-list)
+- [Tree](#tree)
+- [Graph](#graph)
+- [Dynamic Programming](#dynamic-programming)
+- [Backtracking](#backtracking)
+- [Sorting and Searching](#sorting-and-searching)
+- [Math](#math)
+- [Other Topics](#other-topics)
+
+---
+
 <!---LeetCode Topics Start-->
 ![LeetCode Stats](https://leetcard.jacoblin.cool/rajayush2167?theme=dark&ext=heatmap)
 <p align="center">
