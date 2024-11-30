@@ -115,6 +115,7 @@ Welcome to my LeetCode solutions repository! 🚀 Here, you'll find my solutions
 ## Graph
 |  |
 | ------- |
+| [2201-valid-arrangement-of-pairs](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/2201-valid-arrangement-of-pairs) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [3189-find-champion-ii](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/3189-find-champion-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
@@ -130,4 +131,12 @@ Welcome to my LeetCode solutions repository! 🚀 Here, you'll find my solutions
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0033-search-in-rotated-sorted-array) |
+## Depth-First Search
+|  |
+| ------- |
+| [2201-valid-arrangement-of-pairs](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/2201-valid-arrangement-of-pairs) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [2201-valid-arrangement-of-pairs](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/2201-valid-arrangement-of-pairs) |
 <!---LeetCode Topics End-->
