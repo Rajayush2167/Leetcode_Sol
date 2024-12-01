@@ -26,6 +26,7 @@ Welcome to my LeetCode solutions repository! 🚀 Here, you'll find my solutions
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0033-search-in-rotated-sorted-array) |
@@ -48,6 +49,7 @@ Welcome to my LeetCode solutions repository! 🚀 Here, you'll find my solutions
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0088-merge-sorted-array) |
@@ -82,6 +84,7 @@ Welcome to my LeetCode solutions repository! 🚀 Here, you'll find my solutions
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## String
