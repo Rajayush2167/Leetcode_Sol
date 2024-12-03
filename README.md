@@ -43,6 +43,7 @@ Welcome to my LeetCode solutions repository! 🚀 Here, you'll find my solutions
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1972-rotating-the-box](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/1972-rotating-the-box) |
+| [2232-adding-spaces-to-a-string](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/2232-adding-spaces-to-a-string) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Math
@@ -59,6 +60,7 @@ Welcome to my LeetCode solutions repository! 🚀 Here, you'll find my solutions
 | [0189-rotate-array](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0189-rotate-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1972-rotating-the-box](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/1972-rotating-the-box) |
+| [2232-adding-spaces-to-a-string](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/2232-adding-spaces-to-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -99,6 +101,7 @@ Welcome to my LeetCode solutions repository! 🚀 Here, you'll find my solutions
 | ------- |
 | [0058-length-of-last-word](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0058-length-of-last-word) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [2232-adding-spaces-to-a-string](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/2232-adding-spaces-to-a-string) |
 ## Database
 |  |
 | ------- |
@@ -151,4 +154,8 @@ Welcome to my LeetCode solutions repository! 🚀 Here, you'll find my solutions
 |  |
 | ------- |
 | [2201-valid-arrangement-of-pairs](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/2201-valid-arrangement-of-pairs) |
+## Simulation
+|  |
+| ------- |
+| [2232-adding-spaces-to-a-string](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/2232-adding-spaces-to-a-string) |
 <!---LeetCode Topics End-->
