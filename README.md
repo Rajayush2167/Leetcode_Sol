@@ -26,6 +26,7 @@ Welcome to my LeetCode solutions repository! 🚀 Here, you'll find my solutions
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0027-remove-element) |
@@ -77,6 +78,7 @@ Welcome to my LeetCode solutions repository! 🚀 Here, you'll find my solutions
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0169-majority-element) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/1468-check-if-n-and-its-double-exist) |
