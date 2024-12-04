@@ -38,6 +38,7 @@ Welcome to my LeetCode solutions repository! 🚀 Here, you'll find my solutions
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0238-product-of-array-except-self) |
 | [0643-maximum-average-subarray-i](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0643-maximum-average-subarray-i) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -72,6 +73,7 @@ Welcome to my LeetCode solutions repository! 🚀 Here, you'll find my solutions
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0217-contains-duplicate) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Sliding Window
 |  |
@@ -82,6 +84,7 @@ Welcome to my LeetCode solutions repository! 🚀 Here, you'll find my solutions
 | ------- |
 | [0001-two-sum](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0217-contains-duplicate) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Matrix
