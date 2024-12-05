@@ -62,6 +62,7 @@ Welcome to my LeetCode solutions repository! 🚀 Here, you'll find my solutions
 | [1468-check-if-n-and-its-double-exist](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1972-rotating-the-box](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/1972-rotating-the-box) |
 | [2232-adding-spaces-to-a-string](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/2232-adding-spaces-to-a-string) |
+| [2414-move-pieces-to-obtain-a-string](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/2414-move-pieces-to-obtain-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -105,6 +106,7 @@ Welcome to my LeetCode solutions repository! 🚀 Here, you'll find my solutions
 | [0058-length-of-last-word](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0058-length-of-last-word) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [2232-adding-spaces-to-a-string](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/2232-adding-spaces-to-a-string) |
+| [2414-move-pieces-to-obtain-a-string](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/2414-move-pieces-to-obtain-a-string) |
 ## Database
 |  |
 | ------- |
