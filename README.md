@@ -33,6 +33,7 @@ Welcome to my LeetCode solutions repository! 🚀 Here, you'll find my solutions
 | [0033-search-in-rotated-sorted-array](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0035-search-insert-position) |
 | [0055-jump-game](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0055-jump-game) |
+| [0066-plus-one](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -50,6 +51,7 @@ Welcome to my LeetCode solutions repository! 🚀 Here, you'll find my solutions
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0189-rotate-array) |
 ## Two Pointers
 |  |
