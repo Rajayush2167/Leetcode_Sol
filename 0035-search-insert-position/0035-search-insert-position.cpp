@@ -1,19 +1,14 @@
+#include <vector>
+
 class Solution {
- public:
-  int searchInsert(vector<int>& nums, int target) {
-    int l = 0;
-    int r = nums.size();
-
-    while (l < r) {
-      const int m = (l + r) / 2;
-      if (nums[m] == target)
-        return m;
-      if (nums[m] < target)
-        l = m + 1;
-      else
-        r = m;
+public:
+    int searchInsert(std::vector<int>& nums, int target) {
+        if (target <= nums[0]) return 0;
+        for (size_t i = 1; i < nums.size(); i++) {
+            if (target == nums[i]) return i;
+            if (target > nums[i - 1] && target < nums[i]) return i;
+        }
+        return nums.size();
     }
-
-    return l;
-  }
 };
+
