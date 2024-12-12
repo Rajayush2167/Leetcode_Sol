@@ -34,6 +34,7 @@ Welcome to my LeetCode solutions repository! 🚀 Here, you'll find my solutions
 | [0035-search-insert-position](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0035-search-insert-position) |
 | [0055-jump-game](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0066-plus-one) |
+| [0068-text-justification](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0068-text-justification) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -112,6 +113,7 @@ Welcome to my LeetCode solutions repository! 🚀 Here, you'll find my solutions
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0058-length-of-last-word) |
+| [0068-text-justification](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0068-text-justification) |
 | [0125-valid-palindrome](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0392-is-subsequence) |
@@ -173,5 +175,6 @@ Welcome to my LeetCode solutions repository! 🚀 Here, you'll find my solutions
 ## Simulation
 |  |
 | ------- |
+| [0068-text-justification](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0068-text-justification) |
 | [2232-adding-spaces-to-a-string](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/2232-adding-spaces-to-a-string) |
 <!---LeetCode Topics End-->
