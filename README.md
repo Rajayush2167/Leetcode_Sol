@@ -53,6 +53,7 @@ Welcome to my LeetCode solutions repository! 🚀 Here, you'll find my solutions
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0189-rotate-array) |
 ## Two Pointers
@@ -93,6 +94,7 @@ Welcome to my LeetCode solutions repository! 🚀 Here, you'll find my solutions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0217-contains-duplicate) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -112,6 +114,7 @@ Welcome to my LeetCode solutions repository! 🚀 Here, you'll find my solutions
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0058-length-of-last-word) |
 | [0068-text-justification](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0068-text-justification) |
 | [0125-valid-palindrome](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0125-valid-palindrome) |
