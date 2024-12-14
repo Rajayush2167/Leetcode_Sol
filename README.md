@@ -115,6 +115,7 @@ Welcome to my LeetCode solutions repository! 🚀 Here, you'll find my solutions
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0058-length-of-last-word) |
 | [0068-text-justification](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0068-text-justification) |
 | [0125-valid-palindrome](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0125-valid-palindrome) |
@@ -180,4 +181,8 @@ Welcome to my LeetCode solutions repository! 🚀 Here, you'll find my solutions
 | ------- |
 | [0068-text-justification](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0068-text-justification) |
 | [2232-adding-spaces-to-a-string](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/2232-adding-spaces-to-a-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
