@@ -65,6 +65,7 @@ Welcome to my LeetCode solutions repository! 🚀 Here, you'll find my solutions
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0392-is-subsequence) |
@@ -119,6 +120,7 @@ Welcome to my LeetCode solutions repository! 🚀 Here, you'll find my solutions
 | [0058-length-of-last-word](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0058-length-of-last-word) |
 | [0068-text-justification](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0068-text-justification) |
 | [0125-valid-palindrome](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0392-is-subsequence) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/1302-delete-characters-to-make-fancy-string) |
