@@ -46,6 +46,7 @@ Welcome to my LeetCode solutions repository! 🚀 Here, you'll find my solutions
 | [0643-maximum-average-subarray-i](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0643-maximum-average-subarray-i) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1972-rotating-the-box](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/1972-rotating-the-box) |
 | [2232-adding-spaces-to-a-string](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/2232-adding-spaces-to-a-string) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -188,4 +189,12 @@ Welcome to my LeetCode solutions repository! 🚀 Here, you'll find my solutions
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0014-longest-common-prefix) |
+## Stack
+|  |
+| ------- |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
