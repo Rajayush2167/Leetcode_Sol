@@ -52,12 +52,14 @@ Welcome to my LeetCode solutions repository! 🚀 Here, you'll find my solutions
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [3429-special-array-i](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/3429-special-array-i) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Math
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0189-rotate-array) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -162,6 +164,7 @@ Welcome to my LeetCode solutions repository! 🚀 Here, you'll find my solutions
 |  |
 | ------- |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Shortest Path
 |  |
 | ------- |
@@ -185,6 +188,7 @@ Welcome to my LeetCode solutions repository! 🚀 Here, you'll find my solutions
 | ------- |
 | [0068-text-justification](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0068-text-justification) |
 | [2232-adding-spaces-to-a-string](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/2232-adding-spaces-to-a-string) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Trie
 |  |
 | ------- |
