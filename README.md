@@ -32,6 +32,7 @@ Welcome to my LeetCode solutions repository! 🚀 Here, you'll find my solutions
 | [0027-remove-element](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0035-search-insert-position) |
+| [0045-jump-game-ii](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0068-text-justification) |
@@ -81,6 +82,7 @@ Welcome to my LeetCode solutions repository! 🚀 Here, you'll find my solutions
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -115,6 +117,7 @@ Welcome to my LeetCode solutions repository! 🚀 Here, you'll find my solutions
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0134-gas-station) |
