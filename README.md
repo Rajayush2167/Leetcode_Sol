@@ -109,6 +109,7 @@ Welcome to my LeetCode solutions repository! 🚀 Here, you'll find my solutions
 | [0012-integer-to-roman](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0217-contains-duplicate) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -137,6 +138,7 @@ Welcome to my LeetCode solutions repository! 🚀 Here, you'll find my solutions
 | [0068-text-justification](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0068-text-justification) |
 | [0125-valid-palindrome](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0392-is-subsequence) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/1302-delete-characters-to-make-fancy-string) |
