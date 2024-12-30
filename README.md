@@ -42,6 +42,7 @@ Welcome to my LeetCode solutions repository! 🚀 Here, you'll find my solutions
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0135-candy) |
 | [0169-majority-element](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0217-contains-duplicate) |
@@ -128,6 +129,7 @@ Welcome to my LeetCode solutions repository! 🚀 Here, you'll find my solutions
 | [0055-jump-game](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0135-candy) |
 ## String
 |  |
 | ------- |
