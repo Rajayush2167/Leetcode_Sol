@@ -32,6 +32,7 @@ Welcome to my LeetCode solutions repository! 🚀 Here, you'll find my solutions
 | [0027-remove-element](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0066-plus-one) |
@@ -73,6 +74,7 @@ Welcome to my LeetCode solutions repository! 🚀 Here, you'll find my solutions
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0125-valid-palindrome) |
@@ -87,6 +89,7 @@ Welcome to my LeetCode solutions repository! 🚀 Here, you'll find my solutions
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -215,10 +218,12 @@ Welcome to my LeetCode solutions repository! 🚀 Here, you'll find my solutions
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0042-trapping-rain-water) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0042-trapping-rain-water) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Counting Sort
 |  |
