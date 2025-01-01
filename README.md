@@ -148,6 +148,7 @@ Welcome to my LeetCode solutions repository! 🚀 Here, you'll find my solutions
 | [0344-reverse-string](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0392-is-subsequence) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2232-adding-spaces-to-a-string](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/2232-adding-spaces-to-a-string) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/2414-move-pieces-to-obtain-a-string) |
 ## Database
@@ -170,6 +171,7 @@ Welcome to my LeetCode solutions repository! 🚀 Here, you'll find my solutions
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0238-product-of-array-except-self) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/1537-maximum-score-after-splitting-a-string) |
 ## Breadth-First Search
 |  |
 | ------- |
