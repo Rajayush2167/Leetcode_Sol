@@ -62,6 +62,7 @@ Welcome to my LeetCode solutions repository! 🚀 Here, you'll find my solutions
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0066-plus-one) |
