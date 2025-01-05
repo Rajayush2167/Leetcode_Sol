@@ -67,6 +67,7 @@ Welcome to my LeetCode solutions repository! 🚀 Here, you'll find my solutions
 | [0012-integer-to-roman](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0189-rotate-array) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Two Pointers
@@ -94,6 +95,7 @@ Welcome to my LeetCode solutions repository! 🚀 Here, you'll find my solutions
 | [0042-trapping-rain-water](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0392-is-subsequence) |
@@ -250,4 +252,8 @@ Welcome to my LeetCode solutions repository! 🚀 Here, you'll find my solutions
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
