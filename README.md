@@ -34,6 +34,7 @@ Welcome to my LeetCode solutions repository! 🚀 Here, you'll find my solutions
 | [0035-search-insert-position](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0045-jump-game-ii) |
+| [0048-rotate-image](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0068-text-justification) |
@@ -66,6 +67,7 @@ Welcome to my LeetCode solutions repository! 🚀 Here, you'll find my solutions
 | [0009-palindrome-number](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0189-rotate-array) |
@@ -125,6 +127,7 @@ Welcome to my LeetCode solutions repository! 🚀 Here, you'll find my solutions
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0048-rotate-image) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1972-rotating-the-box](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/1972-rotating-the-box) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
