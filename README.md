@@ -70,6 +70,7 @@ Welcome to my LeetCode solutions repository! 🚀 Here, you'll find my solutions
 | [0048-rotate-image](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0189-rotate-array) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -208,6 +209,7 @@ Welcome to my LeetCode solutions repository! 🚀 Here, you'll find my solutions
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0069-sqrtx) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Depth-First Search
 |  |
