@@ -171,6 +171,7 @@ Welcome to my LeetCode solutions repository! 🚀 Here, you'll find my solutions
 | [0584-find-customer-referee](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0595-big-countries) |
 | [1258-article-views-i](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/1258-article-views-i) |
+| [1827-invalid-tweets](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/1908-recyclable-and-low-fat-products) |
 ## Divide and Conquer
 |  |
