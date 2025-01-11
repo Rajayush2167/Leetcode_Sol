@@ -272,4 +272,8 @@ Welcome to my LeetCode solutions repository! 🚀 Here, you'll find my solutions
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0067-add-binary) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
