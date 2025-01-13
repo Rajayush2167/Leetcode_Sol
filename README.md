@@ -278,5 +278,10 @@ Welcome to my LeetCode solutions repository! 🚀 Here, you'll find my solutions
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
