@@ -159,6 +159,7 @@ Welcome to my LeetCode solutions repository! 🚀 Here, you'll find my solutions
 | [0012-integer-to-roman](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0067-add-binary) |
@@ -248,6 +249,7 @@ Welcome to my LeetCode solutions repository! 🚀 Here, you'll find my solutions
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0042-trapping-rain-water) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Monotonic Stack
