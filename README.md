@@ -77,6 +77,7 @@ Welcome to my LeetCode solutions repository! 🚀 Here, you'll find my solutions
 | [0070-climbing-stairs](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0189-rotate-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0380-insert-delete-getrandom-o1) |
+| [1585-the-kth-factor-of-n](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/1585-the-kth-factor-of-n) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Two Pointers
 |  |
@@ -305,4 +306,8 @@ Welcome to my LeetCode solutions repository! 🚀 Here, you'll find my solutions
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0380-insert-delete-getrandom-o1) |
+## Number Theory
+|  |
+| ------- |
+| [1585-the-kth-factor-of-n](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/1585-the-kth-factor-of-n) |
 <!---LeetCode Topics End-->
