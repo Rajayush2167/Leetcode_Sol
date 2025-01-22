@@ -96,6 +96,7 @@ Welcome to my LeetCode solutions repository! 🚀 Here, you'll find my solutions
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0392-is-subsequence) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1972-rotating-the-box](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/1972-rotating-the-box) |
@@ -172,6 +173,7 @@ Welcome to my LeetCode solutions repository! 🚀 Here, you'll find my solutions
 | [0205-isomorphic-strings](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0392-is-subsequence) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/1302-delete-characters-to-make-fancy-string) |
