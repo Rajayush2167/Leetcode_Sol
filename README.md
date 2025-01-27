@@ -53,6 +53,7 @@ Welcome to my LeetCode solutions repository! 🚀 Here, you'll find my solutions
 | [0238-product-of-array-except-self](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0274-h-index) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0380-insert-delete-getrandom-o1) |
+| [0463-island-perimeter](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0463-island-perimeter) |
 | [0643-maximum-average-subarray-i](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0643-maximum-average-subarray-i) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -144,6 +145,7 @@ Welcome to my LeetCode solutions repository! 🚀 Here, you'll find my solutions
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0048-rotate-image) |
+| [0463-island-perimeter](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0463-island-perimeter) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1972-rotating-the-box](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/1972-rotating-the-box) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -206,6 +208,7 @@ Welcome to my LeetCode solutions repository! 🚀 Here, you'll find my solutions
 ## Breadth-First Search
 |  |
 | ------- |
+| [0463-island-perimeter](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0463-island-perimeter) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Graph
@@ -235,6 +238,7 @@ Welcome to my LeetCode solutions repository! 🚀 Here, you'll find my solutions
 ## Depth-First Search
 |  |
 | ------- |
+| [0463-island-perimeter](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0463-island-perimeter) |
 | [2201-valid-arrangement-of-pairs](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/2201-valid-arrangement-of-pairs) |
 ## Eulerian Circuit
 |  |
