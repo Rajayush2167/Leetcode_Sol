@@ -49,6 +49,7 @@ Welcome to my LeetCode solutions repository! 🚀 Here, you'll find my solutions
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0274-h-index) |
@@ -125,6 +126,7 @@ Welcome to my LeetCode solutions repository! 🚀 Here, you'll find my solutions
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0643-maximum-average-subarray-i) |
 ## Hash Table
 |  |
@@ -203,6 +205,7 @@ Welcome to my LeetCode solutions repository! 🚀 Here, you'll find my solutions
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0238-product-of-array-except-self) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/1537-maximum-score-after-splitting-a-string) |
 ## Breadth-First Search
@@ -234,6 +237,7 @@ Welcome to my LeetCode solutions repository! 🚀 Here, you'll find my solutions
 | [0035-search-insert-position](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0209-minimum-size-subarray-sum) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Depth-First Search
 |  |
