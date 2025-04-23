@@ -55,6 +55,7 @@ Welcome to my LeetCode solutions repository! 🚀 Here, you'll find my solutions
 | [0274-h-index](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0274-h-index) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0380-insert-delete-getrandom-o1) |
 | [0463-island-perimeter](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0463-island-perimeter) |
+| [0496-next-greater-element-i](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0496-next-greater-element-i) |
 | [0643-maximum-average-subarray-i](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0643-maximum-average-subarray-i) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -143,6 +144,7 @@ Welcome to my LeetCode solutions repository! 🚀 Here, you'll find my solutions
 | [0290-word-pattern](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0290-word-pattern) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0383-ransom-note) |
+| [0496-next-greater-element-i](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0496-next-greater-element-i) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Matrix
@@ -267,11 +269,13 @@ Welcome to my LeetCode solutions repository! 🚀 Here, you'll find my solutions
 | ------- |
 | [0020-valid-parentheses](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0496-next-greater-element-i) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0496-next-greater-element-i) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Counting Sort
 |  |
