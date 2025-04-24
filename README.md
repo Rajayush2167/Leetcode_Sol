@@ -63,6 +63,7 @@ Welcome to my LeetCode solutions repository! 🚀 Here, you'll find my solutions
 | [1972-rotating-the-box](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/1972-rotating-the-box) |
 | [2232-adding-spaces-to-a-string](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/2232-adding-spaces-to-a-string) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3429-special-array-i](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/3429-special-array-i) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -130,6 +131,7 @@ Welcome to my LeetCode solutions repository! 🚀 Here, you'll find my solutions
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0643-maximum-average-subarray-i) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/2856-count-complete-subarrays-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -147,6 +149,7 @@ Welcome to my LeetCode solutions repository! 🚀 Here, you'll find my solutions
 | [0496-next-greater-element-i](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0496-next-greater-element-i) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/2856-count-complete-subarrays-in-an-array) |
 ## Matrix
 |  |
 | ------- |
