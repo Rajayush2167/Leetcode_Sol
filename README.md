@@ -64,6 +64,7 @@ Welcome to my LeetCode solutions repository! 🚀 Here, you'll find my solutions
 | [2232-adding-spaces-to-a-string](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/2232-adding-spaces-to-a-string) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [2915-count-of-interesting-subarrays](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/2915-count-of-interesting-subarrays) |
 | [3429-special-array-i](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/3429-special-array-i) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -150,6 +151,7 @@ Welcome to my LeetCode solutions repository! 🚀 Here, you'll find my solutions
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [2915-count-of-interesting-subarrays](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/2915-count-of-interesting-subarrays) |
 ## Matrix
 |  |
 | ------- |
@@ -216,6 +218,7 @@ Welcome to my LeetCode solutions repository! 🚀 Here, you'll find my solutions
 | [0209-minimum-size-subarray-sum](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0238-product-of-array-except-self) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [2915-count-of-interesting-subarrays](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/2915-count-of-interesting-subarrays) |
 ## Breadth-First Search
 |  |
 | ------- |
