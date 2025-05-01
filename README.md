@@ -52,6 +52,7 @@ Welcome to my LeetCode solutions repository! 🚀 Here, you'll find my solutions
 | [0189-rotate-array](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0217-contains-duplicate) |
+| [0228-summary-ranges](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0274-h-index) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0380-insert-delete-getrandom-o1) |
