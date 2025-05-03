@@ -227,6 +227,7 @@ Welcome to my LeetCode solutions repository! 🚀 Here, you'll find my solutions
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0100-same-tree) |
 | [0463-island-perimeter](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0463-island-perimeter) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
@@ -258,6 +259,7 @@ Welcome to my LeetCode solutions repository! 🚀 Here, you'll find my solutions
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0100-same-tree) |
 | [0463-island-perimeter](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0463-island-perimeter) |
 | [2201-valid-arrangement-of-pairs](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/2201-valid-arrangement-of-pairs) |
 ## Eulerian Circuit
@@ -299,6 +301,7 @@ Welcome to my LeetCode solutions repository! 🚀 Here, you'll find my solutions
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0100-same-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Binary Search Tree
 |  |
@@ -307,6 +310,7 @@ Welcome to my LeetCode solutions repository! 🚀 Here, you'll find my solutions
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0100-same-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Memoization
 |  |
