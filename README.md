@@ -259,6 +259,7 @@ Welcome to my LeetCode solutions repository! 🚀 Here, you'll find my solutions
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0100-same-tree) |
 | [0463-island-perimeter](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0463-island-perimeter) |
 | [2201-valid-arrangement-of-pairs](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/2201-valid-arrangement-of-pairs) |
@@ -282,6 +283,7 @@ Welcome to my LeetCode solutions repository! 🚀 Here, you'll find my solutions
 | ------- |
 | [0020-valid-parentheses](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0042-trapping-rain-water) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0094-binary-tree-inorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0496-next-greater-element-i) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Monotonic Stack
@@ -301,6 +303,7 @@ Welcome to my LeetCode solutions repository! 🚀 Here, you'll find my solutions
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0100-same-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Binary Search Tree
@@ -310,6 +313,7 @@ Welcome to my LeetCode solutions repository! 🚀 Here, you'll find my solutions
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0100-same-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Memoization
