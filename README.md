@@ -197,6 +197,7 @@ Welcome to my LeetCode solutions repository! 🚀 Here, you'll find my solutions
 | [0392-is-subsequence](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0392-is-subsequence) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2232-adding-spaces-to-a-string](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/2232-adding-spaces-to-a-string) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/2414-move-pieces-to-obtain-a-string) |
 ## Database
@@ -272,6 +273,7 @@ Welcome to my LeetCode solutions repository! 🚀 Here, you'll find my solutions
 | ------- |
 | [0067-add-binary](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0068-text-justification) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2232-adding-spaces-to-a-string](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/2232-adding-spaces-to-a-string) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Trie
