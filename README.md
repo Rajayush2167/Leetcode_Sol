@@ -34,6 +34,7 @@ Welcome to my LeetCode solutions repository! 🚀 Here, you'll find my solutions
 | [0027-remove-element](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0048-rotate-image) |
@@ -149,6 +150,7 @@ Welcome to my LeetCode solutions repository! 🚀 Here, you'll find my solutions
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0013-roman-to-integer) |
+| [0036-valid-sudoku](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0036-valid-sudoku) |
 | [0076-minimum-window-substring](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0169-majority-element) |
@@ -165,6 +167,7 @@ Welcome to my LeetCode solutions repository! 🚀 Here, you'll find my solutions
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0048-rotate-image) |
 | [0463-island-perimeter](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0463-island-perimeter) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
