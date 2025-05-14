@@ -38,6 +38,7 @@ Welcome to my LeetCode solutions repository! 🚀 Here, you'll find my solutions
 | [0042-trapping-rain-water](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0068-text-justification) |
@@ -169,6 +170,7 @@ Welcome to my LeetCode solutions repository! 🚀 Here, you'll find my solutions
 | ------- |
 | [0036-valid-sudoku](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0054-spiral-matrix) |
 | [0463-island-perimeter](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0463-island-perimeter) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1972-rotating-the-box](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/1972-rotating-the-box) |
@@ -282,6 +284,7 @@ Welcome to my LeetCode solutions repository! 🚀 Here, you'll find my solutions
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0068-text-justification) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/2076-sum-of-digits-of-string-after-convert) |
