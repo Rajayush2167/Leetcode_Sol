@@ -6,4 +6,4 @@ class Solution {
       for (int j = i + 1; j < matrix.size(); ++j)
         swap(matrix[i][j], matrix[j][i]);
   }
-};
+  };
