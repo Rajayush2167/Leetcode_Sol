@@ -42,6 +42,7 @@ Welcome to my LeetCode solutions repository! 🚀 Here, you'll find my solutions
 | [0055-jump-game](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0068-text-justification) |
+| [0073-set-matrix-zeroes](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0073-set-matrix-zeroes) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -152,6 +153,7 @@ Welcome to my LeetCode solutions repository! 🚀 Here, you'll find my solutions
 | [0012-integer-to-roman](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0036-valid-sudoku) |
+| [0073-set-matrix-zeroes](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0169-majority-element) |
@@ -171,6 +173,7 @@ Welcome to my LeetCode solutions repository! 🚀 Here, you'll find my solutions
 | [0036-valid-sudoku](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0073-set-matrix-zeroes) |
 | [0463-island-perimeter](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0463-island-perimeter) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1972-rotating-the-box](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/1972-rotating-the-box) |
