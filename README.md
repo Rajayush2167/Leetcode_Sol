@@ -38,6 +38,7 @@ Welcome to my LeetCode solutions repository! 🚀 Here, you'll find my solutions
 | [0042-trapping-rain-water](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0066-plus-one) |
@@ -132,6 +133,7 @@ Welcome to my LeetCode solutions repository! 🚀 Here, you'll find my solutions
 | ------- |
 | [0015-3sum](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0016-3sum-closest) |
+| [0049-group-anagrams](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0217-contains-duplicate) |
@@ -154,6 +156,7 @@ Welcome to my LeetCode solutions repository! 🚀 Here, you'll find my solutions
 | [0012-integer-to-roman](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0036-valid-sudoku) |
+| [0049-group-anagrams](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0141-linked-list-cycle) |
@@ -199,6 +202,7 @@ Welcome to my LeetCode solutions repository! 🚀 Here, you'll find my solutions
 | [0014-longest-common-prefix](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/Rajayush2167/Leetcode_Sol/tree/master/0068-text-justification) |
